@@ -1,0 +1,10 @@
+build*
+*.a
+*.o
+*.exe
+*.lib
+*.dylib
+*.so
+*.dll
+*.pcm
+*.ifc
